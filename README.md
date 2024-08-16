@@ -6,7 +6,7 @@ Welcome to the **Product Landing Page** project, part of the Responsive Web Desi
 
 You can view the deployed project directly by visiting the following link:
 
-### **[🔥Live Demo](#)**
+### **[🔥Live Demo](https://anirudha-8.github.io/product-landing-page/)**
 
 ## 🎯 Project Goals
 
@@ -61,7 +61,7 @@ This repository includes only the final project for the Product Landing Page. To
 1. **Clone the Repository:**
 
    ```bash
-   git clone --recurse-submodules <your-repo-link>
+   git clone https://github.com/anirudha-8/product-landing-page.git
    ```
 
 2. **Navigate to the Project Directory**:
