@@ -88,4 +88,4 @@ Your feedback is valuable! Feel free to open issues or pull requests if you have
 
 After completing this project, continue your journey by moving on to the next project in the Responsive Web Design course. Happy coding!
 
-## 🎉 Happy Coding! Let's build something amazing
+## 🎉 Happy Coding! Let's build something amazing ❤️
